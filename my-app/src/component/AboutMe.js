@@ -36,9 +36,9 @@ export default class AboutMe extends Component{
                                 <table className="table table-hover table-bordered">
                                     <tbody>
                                         <tr>
-                                            <td>Degree</td>
-                                            <td>Field</td>
-                                            <td>Institute/University</td>
+                                            <td><b>Degree</b></td>
+                                            <td><b>Field</b></td>
+                                            <td><b>Institute/University</b></td>
                                         </tr>
                                         <tr>
                                             <td>Bachelors</td>

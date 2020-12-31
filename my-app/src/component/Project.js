@@ -43,7 +43,6 @@ export default class Project extends Component{
                             {/* <img src="..." className="card-img-top" alt="..."/> */}
                             <div className="card-body">
                                 <h5 className="card-title">ResumeX</h5>
-                                
                                 <p className="card-text" style={{lineHeight:'2.0', textAlign:'justify', fontSize:"17px"}}>ResumeX is a website where you can upload your resume and desired job description and the website will recommend changes to match the job desciption or you can use job search to look for a job matching your resume. To try our app click on <a href="https://resumex2020.herokuapp.com "style={{color:'#21AA47'}}>ResumeX.</a> </p>
                                 <a className="btn viewbtn rounded-pill shadow" href="https://github.com/arsala1995/final_project_LHL" target="_blank" style={{textDecoration:'none', width:'50%', marginTop:'68px'}}>
                                     <i className="fa fa-eye">&ensp;View</i>
